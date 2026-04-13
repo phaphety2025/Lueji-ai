@@ -1,62 +1,60 @@
-# Lueji Phaphety
+# Hi, I'm Lueji 👋  
 
-**Machine Learning | Data Science | GIS | Risk Analysis | Automation | AI Products**
-
----
-
-## About Me
-I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passionate about leveraging data and AI to solve real-world problems. I focus on machine learning, data science, GIS, risk analysis, and automation, building tools and models that drive actionable insights.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lueji-phaphety)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lphaphety.ai@gmail.com)
+🎓 Applied Machine Intelligence @ Northeastern University  
+💡 Focused on Machine Learning, AI Systems, and Real-World Applications  
 
 ---
 
-## Current Learning
-**Advanced Machine Learning & Deep Learning** | **AI Product Development** | **Predictive Modeling & Analytics**
+## 🚀 About Me
+I am a graduate student in Applied Machine Intelligence with a strong interest in building practical AI and machine learning solutions. My work focuses on applying data-driven methods to real-world problems, including fraud detection, predictive modeling, and AI-powered systems.
 
 ---
 
-## Highlighted Project
+##  Featured Projects
+
+### ChairFlow – AI Booking System (Live)
+### https://huggingface.co/spaces/phaphety2025/ChairFlow
+- AI-powered booking system with real-time scheduling  
+- Built scalable multi-client solution  
+- Focused on real-world business application  
+
+### Breast Cancer Prediction
 ### [Breast Cancer Prediction](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)
-- Built a predictive model for breast cancer using machine learning, with complete workflow and visualization.  
-- Developed in a live Hugging Face environment, including feature importance and cross-validation.
+- Developed predictive ML model with feature importance  
+- Applied cross-validation and evaluation techniques  
 
+### Pet Re-Identification (Deep Learning)
 ### [Pet Re-Identification (Pet_ReID)](https://huggingface.co/spaces/phaphety2025/pet-reid-app)
-- Designed a deep learning system for pet re-identification using Siamese Networks and contrastive learning.
-- Supports pairwise image comparison and lost pet search through image similarity.
-- Built with PyTorch & FastAI, deployed on Hugging Face Spaces.
-
-*(More projects coming soon LLM Project…)*  
-This section will feature a generative AI project using Large Language Models. Stay tuned!
+- Built Siamese Network for image similarity  
+- Supports lost pet search using AI  
+- Implemented with PyTorch & FastAI  
 
 ---
 
-## Professional Experience
-- **Engineering Assistant** – 52 Farm View Drive, New Gloucester, ME (2022–2024)  
-- **IT Help Desk Team Lead** – University of Southern Maine (2014–2021)  
-- **Graduate Internships** – City of Portland, ME (Sustainability & Economic Development, 2019)  
+##  Skills
+- Python  
+- Machine Learning  
+- XGBoost  
+- Scikit-learn  
+- PyTorch  
+- Data Analysis  
 
 ---
 
-## Skills & Technologies
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-<img src="https://img.shields.io/badge/GIS-4CAF50?style=for-the-badge&logo=esri&logoColor=white" />
-</p>
+##  Experience
+- Engineering Assistant (2022–2024)  
+- IT Help Desk Team Lead (2014–2021)  
+- Graduate Intern – City of Portland  
 
 ---
 
-## GitHub Stats
-![Lueji's GitHub stats](https://github-readme-stats.vercel.app/api?username=lueji-ai&show_icons=true&theme=gruvbox)
+##  Connect
+- LinkedIn: https://www.linkedin.com/in/lueji-phaphety  
 
 ---
 
+##  Focus
+Building practical AI systems that create real-world impact.
 ## Fun Fact
 I enjoy exploring how AI can be applied to meaningful real-world challenges—from predicting health outcomes with machine learning to re-identifying pets with deep learning. My projects often blend technical rigor with practical applications, reflecting my belief that: 
 
